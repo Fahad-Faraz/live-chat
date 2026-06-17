@@ -334,7 +334,7 @@ const Login = () => {
                   className="field-input"
                   type="email"
                   name="email"
-                  placeholder="ahmad@example.com"
+                  placeholder="ahmad2@example.com"
                   onChange={handleChange}
                   required
                 />
