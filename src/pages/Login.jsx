@@ -322,7 +322,7 @@ const Login = () => {
               <span className="auth-brand-name">LiveChat</span>
             </div>
 
-            <h1 className="auth-heading">Welcome back</h1>
+            <h1 className="auth-heading">Welcome back 2</h1>
             <p className="auth-sub">Sign in to continue your conversations</p>
 
             {error && <div className="error-box">⚠️ {error}</div>}
