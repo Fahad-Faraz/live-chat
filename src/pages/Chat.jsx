@@ -6,7 +6,7 @@ import {
   socket,
   connectSocket,
   disconnectSocket,
-} from "../api/socket";
+} from "../api/Socket";
 
 import { AuthContext } from "../context/AuthContext";
 
